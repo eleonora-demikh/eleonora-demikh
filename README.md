@@ -26,7 +26,7 @@
 
 <h2 align="center">
   ɪɴᴛᴇʀᴇꜱᴛᴇᴅ?<br>
-  <a href="https://www.linkedin.com/in/eleonorademikh/" target="_blank">ᴛᴇxᴛ ᴍᴇ</a>!
+  <a href="https://www.linkedin.com/in/eleonorademikh/" target="_blank" rel="noopener">ᴛᴇxᴛ ᴍᴇ</a>!
 </h2>
 
 
