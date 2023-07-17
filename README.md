@@ -1,7 +1,6 @@
 <h1 align="center">🄷🄸 🅃🄷🄴🅁🄴!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></a> </h1>
 <h3 align="center">ɪ'ᴍ ᴇʟᴇᴏɴᴏʀᴀ, ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴜᴋʀᴀɪɴᴇ 🇺🇦</h3><br>
-<p></p>I have nearly a year of experience in individual and group projects. Proficient in JS, React.JS, Redux, HTML/CSS, TypeScript, etc.<br><br>
-</p>
+<p>I have nearly a year of experience in individual and group projects. Proficient in JS, React.JS, Redux, HTML/CSS, TypeScript, etc.</p><br>
 
 <p>Working with:</p>
 
@@ -25,8 +24,9 @@
    and more...
 
 <h2 align="center">
-  ɪɴᴛᴇʀᴇꜱᴛᴇᴅ?<br>
-  <a href="https://www.linkedin.com/in/eleonorademikh/" target="_blank" rel="noopener">ᴛᴇxᴛ ᴍᴇ</a>!
+  ɪɴᴛᴇʀᴇꜱᴛᴇᴅ?
+ <br>
+ <a href="https://www.linkedin.com/in/eleonorademikh/">ᴛᴇxᴛ ᴍᴇ</a>!
 </h2>
 
 
