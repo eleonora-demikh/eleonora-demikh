@@ -1,5 +1,5 @@
 <h1 align="center">🄷🄸 🅃🄷🄴🅁🄴!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></a> </h1>
-<h3 align="center">ɪ'ᴍ ᴇʟᴇᴏɴᴏʀᴀ, ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴜᴋʀᴀɪɴᴇ 🇺🇦</h3><br>
+<h3 align="center">ɪ'ᴍ ᴀ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3><br>
 
 <p>Working with:</p>
 
@@ -19,10 +19,7 @@
  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
    and more...
 
-<h2 align="center">
-  ɪɴᴛᴇʀᴇꜱᴛᴇᴅ?
- <br>
- <a href="https://www.linkedin.com/in/eleonorademikh/">ᴛᴇxᴛ ᴍᴇ</a>!
+ <a href="https://www.linkedin.com/in/eleonorademikh/">contact me</a>!
 </h2>
 
 
