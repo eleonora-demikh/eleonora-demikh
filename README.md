@@ -19,7 +19,7 @@
  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
    and more...
 
- <a href="https://www.linkedin.com/in/eleonorademikh/">contact me</a>!
+ <a href="https://www.linkedin.com/in/eleonorademikh/" align="center">contact me</a>
 </h2>
 
 
