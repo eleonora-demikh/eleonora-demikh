@@ -1,5 +1,4 @@
-<h1 align="center">🄷🄸 🅃🄷🄴🅁🄴!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></a> </h1>
-<h3 align="center">ɪ'ᴍ ᴀ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3><br>
+<h1 align="center">ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3><br>
 
 <p>Working with:</p>
 
